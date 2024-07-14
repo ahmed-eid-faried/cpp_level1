@@ -127,8 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="12output_card.cpp" />
+    <ClCompile Include="12output_h.cpp" />
+    <ClCompile Include="12output_starts.cpp" />
     <ClCompile Include="MYFIRSTAPP.cpp" />
-    <ClCompile Include="12output.cpp" />
+    <ClCompile Include="12output_paragraph.cpp" />
     <ClCompile Include="11syntax.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

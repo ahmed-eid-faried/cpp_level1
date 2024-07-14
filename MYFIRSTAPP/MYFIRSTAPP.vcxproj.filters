@@ -21,7 +21,16 @@
     <ClCompile Include="11syntax.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="12output.cpp">
+    <ClCompile Include="12output_paragraph.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="12output_h.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="12output_starts.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="12output_card.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
