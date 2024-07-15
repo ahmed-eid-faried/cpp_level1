@@ -130,6 +130,14 @@
     <ClCompile Include="12output_card.cpp" />
     <ClCompile Include="12output_h.cpp" />
     <ClCompile Include="12output_starts.cpp" />
+    <ClCompile Include="14output_buffer.cpp" />
+    <ClCompile Include="16literals_ring_bell.cpp" />
+    <ClCompile Include="17variables_age.cpp" />
+    <ClCompile Include="17variables_calculate.cpp" />
+    <ClCompile Include="17variables_card.cpp" />
+    <ClCompile Include="18inputs_age.cpp" />
+    <ClCompile Include="18inputs_calculate.cpp" />
+    <ClCompile Include="18inputs_card.cpp" />
     <ClCompile Include="MYFIRSTAPP.cpp" />
     <ClCompile Include="12output_paragraph.cpp" />
     <ClCompile Include="11syntax.cpp" />
