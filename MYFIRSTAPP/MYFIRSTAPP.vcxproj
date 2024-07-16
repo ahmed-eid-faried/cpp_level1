@@ -147,6 +147,8 @@
     <ClCompile Include="26MathFunctions.cpp" />
     <ClCompile Include="27struct.cpp" />
     <ClCompile Include="28ENUMS.cpp" />
+    <ClCompile Include="29NestedStructuresAndEnums.cpp" />
+    <ClCompile Include="30DataTypeConversion.cpp" />
     <ClCompile Include="MYFIRSTAPP.cpp" />
     <ClCompile Include="12output_paragraph.cpp" />
     <ClCompile Include="11syntax.cpp" />

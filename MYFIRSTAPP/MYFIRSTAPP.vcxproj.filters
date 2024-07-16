@@ -84,6 +84,12 @@
     <ClCompile Include="28ENUMS.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="29NestedStructuresAndEnums.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="30DataTypeConversion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="18inputs_card.h">
