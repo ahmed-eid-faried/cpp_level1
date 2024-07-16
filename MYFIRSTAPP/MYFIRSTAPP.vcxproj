@@ -138,9 +138,21 @@
     <ClCompile Include="18inputs_age.cpp" />
     <ClCompile Include="18inputs_calculate.cpp" />
     <ClCompile Include="18inputs_card.cpp" />
+    <ClCompile Include="19datatypes_sizes_ranges.cpp" />
+    <ClCompile Include="20arithmetic_operators.cpp" />
+    <ClCompile Include="21increament-decreament.cpp" />
+    <ClCompile Include="23assignment_operators.cpp" />
+    <ClCompile Include="24relational_operators.cpp" />
+    <ClCompile Include="25logical_operators.cpp" />
+    <ClCompile Include="26MathFunctions.cpp" />
+    <ClCompile Include="27struct.cpp" />
+    <ClCompile Include="28ENUMS.cpp" />
     <ClCompile Include="MYFIRSTAPP.cpp" />
     <ClCompile Include="12output_paragraph.cpp" />
     <ClCompile Include="11syntax.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="18inputs_card.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
