@@ -90,6 +90,12 @@
     <ClCompile Include="30DataTypeConversion.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="30DataTypeConversion_task.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="31string.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="18inputs_card.h">
