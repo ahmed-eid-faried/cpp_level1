@@ -151,6 +151,12 @@
     <ClCompile Include="30DataTypeConversion.cpp" />
     <ClCompile Include="30DataTypeConversion_task.cpp" />
     <ClCompile Include="31string.cpp" />
+    <ClCompile Include="34funs.cpp" />
+    <ClCompile Include="36global_var_scope.cpp" />
+    <ClCompile Include="37by_ref_by_val.cpp" />
+    <ClCompile Include="38structuresandfunctions.cpp" />
+    <ClCompile Include="38structuresandfunctions2.cpp" />
+    <ClCompile Include="39ARRAYS.cpp" />
     <ClCompile Include="MYFIRSTAPP.cpp" />
     <ClCompile Include="12output_paragraph.cpp" />
     <ClCompile Include="11syntax.cpp" />
