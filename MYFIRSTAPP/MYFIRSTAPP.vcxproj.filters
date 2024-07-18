@@ -168,6 +168,12 @@
     <ClCompile Include="51DoWhileLoop_2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="52BreakStatement.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="53ContinueStatement.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="18inputs_card.h">
