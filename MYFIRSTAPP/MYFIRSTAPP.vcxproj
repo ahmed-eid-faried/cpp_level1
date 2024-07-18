@@ -173,6 +173,8 @@
     <ClCompile Include="50WhileLoop_1.cpp" />
     <ClCompile Include="50WhileLoop_2.cpp" />
     <ClCompile Include="50WhileLoop_3.cpp" />
+    <ClCompile Include="51DoWhileLoop_1.cpp" />
+    <ClCompile Include="51DoWhileLoop_2.cpp" />
     <ClCompile Include="MYFIRSTAPP.cpp" />
     <ClCompile Include="12output_paragraph.cpp" />
     <ClCompile Include="11syntax.cpp" />
