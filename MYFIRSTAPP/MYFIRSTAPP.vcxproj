@@ -170,6 +170,9 @@
     <ClCompile Include="49nested_for_loops_aa_to_zz.cpp" />
     <ClCompile Include="49nested_for_loops_alphabet_sequence_printer.cpp" />
     <ClCompile Include="49loop_numbers.cpp" />
+    <ClCompile Include="50WhileLoop_1.cpp" />
+    <ClCompile Include="50WhileLoop_2.cpp" />
+    <ClCompile Include="50WhileLoop_3.cpp" />
     <ClCompile Include="MYFIRSTAPP.cpp" />
     <ClCompile Include="12output_paragraph.cpp" />
     <ClCompile Include="11syntax.cpp" />
