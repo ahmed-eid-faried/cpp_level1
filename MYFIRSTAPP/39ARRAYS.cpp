@@ -1,36 +1,37 @@
-#include <iostream>
-#include <string>
-using namespace std;
-
-void ReadPersonInfo(float  grades[3]) {
-	cout << "PLEASE ENTER grade1: ";
-	cin >> grades[0];
-	cout << "PLEASE ENTER grade2: ";
-	cin >> grades[1];
-	cout << "PLEASE ENTER grade3: ";
-	cin >> grades[2];
-
-
-}
-void PrintPersonInfo(float grades[3]) {
-	cout << "#################################################\n";
-	cout << "grade1: \t" << grades[0] << endl;
-	cout << "grade2: \t" << grades[1] << endl;
-	cout << "grade3: \t" << grades[2] << endl;
-	cout << "#################################################\n";
-	cout << "avarage of grades: \t" << (grades[0] + grades[1] + grades[2])/3 << endl;
-
-
-}
-
-int main() {
-	cout << "#################################################\n";
-	cout << "################## AHMED  MADY ##################\n";
-	cout << "#################################################\n";
-	float grades[3];
-	ReadPersonInfo(grades);
-	PrintPersonInfo(grades);
-	cout << "#################################################\n";
-	cout << "#################################################\n";
-	return 0;
-}
+//#include <iostream>
+//#include <string>
+//using namespace std;
+//// áÇÍÙ Çä ãÔ ãÍÊÇÌ & áÇäå Úáì Øæá  ãÑÌÚ ãÔ ÈíÇÎÏ äÓÎÉ ÇÕáÇ 
+//// ref
+//void ReadGrades(float  Grades[3]) {
+//	cout << "PLEASE ENTER Grade1: ";
+//	cin >> Grades[0];
+//	cout << "PLEASE ENTER Grade2: ";
+//	cin >> Grades[1];
+//	cout << "PLEASE ENTER Grade3: ";
+//	cin >> Grades[2];
+//
+//
+//}
+//void PrintGrades(float Grades[3]) {
+//	cout << "#################################################\n";
+//	cout << "Grade1: \t" << Grades[0] << endl;
+//	cout << "Grade2: \t" << Grades[1] << endl;
+//	cout << "Grade3: \t" << Grades[2] << endl;
+//	cout << "#################################################\n";
+//	cout << "avarage of Grades: \t" << (Grades[0] + Grades[1] + Grades[2]) / 3 << endl;
+//
+//
+//}
+//
+//int main() {
+//	cout << "#################################################\n";
+//	cout << "################## AHMED  MADY ##################\n";
+//	cout << "#################################################\n";
+//	float Grades[3];
+//	ReadGrades(Grades);
+//	PrintGrades(Grades);
+//	cout << "#################################################\n";
+//	cout << "#################################################\n";
+//	return 0;
+//}
